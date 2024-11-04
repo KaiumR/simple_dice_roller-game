@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.bdy{
+	background-color: #7ED4AD;
+}
+p{
+	font-size: 20px;
+	color: #F7FBF9;
+}
+.moo-lah-lah-regular{
+  font-family: "Moo Lah Lah", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+	text-align: center;
+}
+.atma-regular {
+  font-family: "Atma", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.fx{
+	display: flex;
+	text-align: center;
+}
+.container_alignment{
+	justify-content: center;
+}
+.dice_btn{
+	height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    background-color: #B03052;
+    color: #ffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+.dice_btn:hover{
+	background-color: #8D2642;
+}
+
